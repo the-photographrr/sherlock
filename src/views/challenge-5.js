@@ -21,7 +21,7 @@ const Challenge5 = (props) => {
   return (
     <div className="challenge5-container">
       <Helmet>
-        <title>You Won</title>
+        <title>You Did it</title>
         <meta property="og:title" content="Challenge-1 - OnConf template1" />
       </Helmet>
 

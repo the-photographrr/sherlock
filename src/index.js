@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
 import './style.css'
 import Home from './views/home'
@@ -15,17 +15,19 @@ import ErrorPage from './views/error'
 
 const App = () => {
   return (
-    <Router>
+    <BrowserRouter>
+    <Switch>
         <Route path="/" exact component={Home}/>
         <Route component={Challenge2}  exact path="/450E" />
         <Route component={Challenge3} exact path="/8456" />
         <Route component={Challenge1} exact  path="/challenge-1" />
         <Route component={Challenge4} exact path="/P5" />
         <Route component={Challenge5} exact path="/B3" />   
-        <Route component={Challenge6} exact  path="/challenge-6" />
+        <Route component={Challenge6} exact  path="/conqured" />
         <Route component={Vicious7} exact path="/vicious-7" />
-        <Route component={ErrorPage}  path="\" />
-    </Router> 
+        <Route component={ErrorPage}  path="*" />
+    </Switch> 
+    </BrowserRouter>
   )
 }
 

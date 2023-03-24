@@ -33,6 +33,9 @@ const ErrorPage = (props) => {
           <div class="line">SOMETHING ' S WRONG</div>
           <div class="line">SOMETHING ' S WRONG</div>
         </div>
+        <h2 className="error-text02">
+          &quot;Go Back the way and find it&quot;
+        </h2>
         </div>
       </section>
       <footer className="error-footer">
