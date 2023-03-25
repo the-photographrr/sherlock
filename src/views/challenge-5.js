@@ -41,6 +41,11 @@ const Challenge5 = (props) => {
           src="/playground_assets/l3.png"
           className="challenge5-image"
         />
+                <img
+          alt="image"
+          src="/playground_assets/l4.png"
+          className="challenge6-image"
+        />
         {/* <label className='challenge5-text'>Check this Out </label> */}
 
         <div className="challenge5-banner">
