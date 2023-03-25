@@ -19,7 +19,7 @@ const Challenge1 = (props) => {
   return (
     <div className="challenge1-container">
       <Helmet>
-        <title>Challenge-1 - OnConf template1</title>
+        <title>Challenge-1</title>
         <meta property="og:title" content="Challenge-1 - OnConf template1" />
       </Helmet>
       <div className="challenge1-banner">
@@ -38,7 +38,7 @@ const Challenge1 = (props) => {
         />
 
         <a href='https://firebasestorage.googleapis.com/v0/b/sherlock23-19008.appspot.com/o/Sherlock%2Fmap_F.pdf?alt=media&token=e4676092-b95e-4882-9bb0-2fa75dee3074' target="_blank">
-        <label className='challenge4-text'>Check this Out 👇</label>
+        <label className='challenge4-text'>CHECK THIS OUT 👇</label>
 
         <img
           alt="image"
@@ -54,7 +54,7 @@ const Challenge1 = (props) => {
       </label>
       <br/>
       <button href="">
-            <span>  </span>
+            <span>  Submit </span>
             <div id="clip">
                 <div id="leftTop" class="corner"></div>
                 <div id="rightBottom" class="corner"></div>
@@ -70,29 +70,6 @@ const Challenge1 = (props) => {
     </div>
   )
 
-
-function MyForm() {
-  const [inputValue, setInputValue] = useState('');
-  const history = useHistory();
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // use inputValue as key
-    console.log(inputValue);
-    // redirect to new page
-    history.push(`/${inputValue}`);
-  }
-
-  return (
-    <form onSubmit={handleSubmit}>
-      <label>
-        Enter key:
-        <input type="text" value={inputValue} onChange={(e) => setInputValue(e.target.value)} />
-      </label>
-      <button type="submit">Submit</button>
-    </form>
-  );
-}
 }
 
 export default Challenge1

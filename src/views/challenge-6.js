@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { useHistory } from 'react-router-dom';
 
 import { Helmet } from 'react-helmet'
-import { Link } from 'react-router-dom'
 
 import './challenge-6.css'
 
