@@ -43,6 +43,11 @@ const Challenge5 = (props) => {
         />
                 <img
           alt="image"
+          src="/playground_assets/l5.png"
+          className="challenge6-image"
+        />
+                <img
+          alt="image"
           src="/playground_assets/l4.png"
           className="challenge6-image"
         />

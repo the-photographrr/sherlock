@@ -12,6 +12,7 @@ import Challenge4 from './views/challenge-4'
 import Challenge5 from './views/challenge-5'
 import Challenge6 from './views/challenge-6'
 import ErrorPage from './views/error'
+import Challenge7 from './views/challenge-7'
 
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
         <Route component={Challenge4} exact path="/P5" />
         <Route component={Challenge5} exact path="/B3" />   
         <Route component={Challenge6} exact  path="/conqured" />
+        <Route component={Challenge7} exact  path="/lost" />
         <Route component={Vicious7} exact path="/vicious-7" />
         <Route component={ErrorPage}  path="*" />
     </Switch> 

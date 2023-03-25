@@ -33,7 +33,7 @@ const Challenge3 = (props) => {
           src="/playground_assets/c3-phone.png"
           className="challenge3-image"
         />
-        <a  className="challenge3-a-image1" href='https://tinyurl.com/4kr5nfm4'target="_blank">
+        <a  className="challenge3-a-image1" href='https://firebasestorage.googleapis.com/v0/b/sherlock23-19008.appspot.com/o/Sherlock%2FSMARTPHONE_01.pdf?alt=media&token=f8b6a5c5-c415-4c2e-bc36-8be1ef3849a1'target="_blank">
         <img
           alt="image"
           src="/playground_assets/phone.png"
@@ -59,7 +59,7 @@ const Challenge3 = (props) => {
       </label>
       <br/>
       <button href="">
-            <span>  </span>
+            <span> Submit </span>
             <div id="clip">
                 <div id="leftTop" class="corner"></div>
                 <div id="rightBottom" class="corner"></div>
