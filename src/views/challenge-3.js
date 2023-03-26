@@ -33,7 +33,7 @@ const Challenge3 = (props) => {
           src="/playground_assets/c3-phone.png"
           className="challenge3-image"
         />
-        <a  className="challenge3-a-image1" href=''target="_blank">
+        <a  className="challenge3-a-image1" href='https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVlJXREw4cVhMOG56YTFlSVAxdW9DcU9hSS9xWjZtbUg3YjVFd0VMV3FjaklNMkF1ZFkza25NcUlZNWhDRGRjNHhsekdNYjNndEVuS0QzeUxyajNSanpKZDlDRktzQTZyTnhrSHVWV1A3MU1Fanc1WlFQekdXQlg5aU5WcE1xbFExTWhGa0xvPSIsInMiOiJwUFRSdzV6eUJKOVBqa3FtMksySHVBPT0iLCJpIjoib3p1dnIrR2swMmx0TGRzRyJ9'target="_blank">
         <img
           alt="image"
           src="/playground_assets/phone.png"
@@ -58,7 +58,7 @@ const Challenge3 = (props) => {
         <input type="text" value={inputValue} onChange={(e) => setInputValue(e.target.value)} />
       </label>
       <br/>
-      <button href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVlJXREw4cVhMOG56YTFlSVAxdW9DcU9hSS9xWjZtbUg3YjVFd0VMV3FjaklNMkF1ZFkza25NcUlZNWhDRGRjNHhsekdNYjNndEVuS0QzeUxyajNSanpKZDlDRktzQTZyTnhrSHVWV1A3MU1Fanc1WlFQekdXQlg5aU5WcE1xbFExTWhGa0xvPSIsInMiOiJwUFRSdzV6eUJKOVBqa3FtMksySHVBPT0iLCJpIjoib3p1dnIrR2swMmx0TGRzRyJ9">
+      <button href="">
             <span> Submit </span>
             <div id="clip">
                 <div id="leftTop" class="corner"></div>
