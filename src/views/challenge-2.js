@@ -41,7 +41,7 @@ const Challenge2 = (props) => {
         <label className='challenge2-text'>Open the Locker</label>
 
 
-        <a href='https://firebasestorage.googleapis.com/v0/b/sherlock23-19008.appspot.com/o/Sherlock%2Fmap_F.pdf?alt=media&token=e4676092-b95e-4882-9bb0-2fa75dee3074'target="_blank">
+        <a href='https://drive.google.com/file/d/1sZCopcJAEBr8Z6jWhG_VfB5si7nTHMvI/view?usp=share_link'target="_blank">
         <img
           alt="image"
           src="/playground_assets/map.png"
