@@ -1,0 +1,22 @@
+name: Sherlock23
+routes:
+  - path: /
+    static: build/index.html
+  - path: /450E
+    static: build/index.html
+  - path: /8456
+    static: build/index.html
+  - path: /challenge-1
+    static: build/index.html
+  - path: /p5
+    static: build/index.html
+  - path: /youwon
+    static: build/index.html
+  - path: /conqureed
+    static: build/index.html
+  - path: /lost
+    static: build/index.html
+  - path: /vicious-7
+    static: build/index.html
+  - path: *
+    static: build/index.html

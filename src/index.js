@@ -23,7 +23,7 @@ const App = () => {
         <Route component={Challenge3} exact path="/8456" />
         <Route component={Challenge1} exact  path="/challenge-1" />
         <Route component={Challenge4} exact path="/P5" />
-        <Route component={Challenge5} exact path="/B3" />   
+        <Route component={Challenge5} exact path="/youwon" />   
         <Route component={Challenge6} exact  path="/conqured" />
         <Route component={Challenge7} exact  path="/lost" />
         <Route component={Vicious7} exact path="/vicious-7" />
