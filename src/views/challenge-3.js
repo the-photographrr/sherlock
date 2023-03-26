@@ -49,7 +49,7 @@ const Challenge3 = (props) => {
           src="/playground_assets/map.png"
           className="challenge3-image1"
         />
-        </a>https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibFhPc1M5WCtFak9MVzFBN3EraXBOTWFQbDcxVXBuNENEcUJVcVVKRmFPSXdXUjVINDdjRW9zdzc4aENRYXB3VjJ4L0RVQWxYVXdzbjlMSUw0NjloOU9ZZTgveHp0dHBjTUVjYWpqM1Vla2szbzFuQS9QVXFjckhLM1g3UnN6cFJSZ282RDVvPSIsInMiOiJmTFB1emR2dEMyRlU5Rngya0dsWXdBPT0iLCJpIjoiWURHbmlVa3FuR1Qvc09WZiJ9
+        </a>
 
         <form onSubmit={handleSubmit}>
 
