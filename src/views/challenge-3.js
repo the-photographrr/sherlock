@@ -33,7 +33,7 @@ const Challenge3 = (props) => {
           src="/playground_assets/c3-phone.png"
           className="challenge3-image"
         />
-        <a  className="challenge3-a-image1" href='https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQzd6eEFlZjdCeVVJUXRpdkgxcURmTzBxMzMzdjlRSVRLRlA3TlUrWi9HbFRlRDNFVFJha3FxeXRudWdEdW1VSW9uTnRvZXMzVG5DeVl0ZDlCa2lCR0ZkSlRUSlBCOTJ6VjNLREROSmhKUHllTjM0V1NIS0dJdXpNbDRYU21IL3Y4bDE4YlJBPSIsInMiOiJhNlY0a2RmNW9mUW1KaXJ2b0lpejBRPT0iLCJpIjoiS05yRmtqRGNma2VJRVZjZSJ9'target="_blank">
+        <a  className="challenge3-a-image1" href='https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibFhPc1M5WCtFak9MVzFBN3EraXBOTWFQbDcxVXBuNENEcUJVcVVKRmFPSXdXUjVINDdjRW9zdzc4aENRYXB3VjJ4L0RVQWxYVXdzbjlMSUw0NjloOU9ZZTgveHp0dHBjTUVjYWpqM1Vla2szbzFuQS9QVXFjckhLM1g3UnN6cFJSZ282RDVvPSIsInMiOiJmTFB1emR2dEMyRlU5Rngya0dsWXdBPT0iLCJpIjoiWURHbmlVa3FuR1Qvc09WZiJ9'target="_blank">
         <img
           alt="image"
           src="/playground_assets/phone.png"
@@ -49,7 +49,7 @@ const Challenge3 = (props) => {
           src="/playground_assets/map.png"
           className="challenge3-image1"
         />
-        </a>
+        </a>https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibFhPc1M5WCtFak9MVzFBN3EraXBOTWFQbDcxVXBuNENEcUJVcVVKRmFPSXdXUjVINDdjRW9zdzc4aENRYXB3VjJ4L0RVQWxYVXdzbjlMSUw0NjloOU9ZZTgveHp0dHBjTUVjYWpqM1Vla2szbzFuQS9QVXFjckhLM1g3UnN6cFJSZ282RDVvPSIsInMiOiJmTFB1emR2dEMyRlU5Rngya0dsWXdBPT0iLCJpIjoiWURHbmlVa3FuR1Qvc09WZiJ9
 
         <form onSubmit={handleSubmit}>
 
