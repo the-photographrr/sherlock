@@ -33,7 +33,7 @@ const Challenge3 = (props) => {
           src="/playground_assets/c3-phone.png"
           className="challenge3-image"
         />
-        <a  className="challenge3-a-image1" href='https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZGVYbkZCQmdnUHNkeS9MZ0tGbjJMZjFoMWRpbXR0TlIzeW5JaGtUd2loYW94V3kvQkJid0w2SmpjUkxJa2h2aUpPMkFBcU1BUXlhZy8vcFpIY1J2QXY2dU9qdjYxWEt1WG80R3p6aXA0T0N5eUdVTHVwd0cwN1NGMWY0eHQzWitKYVEwaU9BOXAvQWZralU3TlhCSWxGMUg1dFNFbytuL1ZsNWdBZy9Ca1AwRCsyVDBYS2RadzJ6VXUyUDdTc1M0enBIRGZIOFN3SEllNUVyNy9HYVZoT25Xc3VnUzNPMnUwcXYzYUE9PSIsInMiOiJxZlhmby9pemowZUc3WDh3YS9SWktnPT0iLCJpIjoiZWtPM1JpK2k2amRHNzJwdiJ9'target="_blank">
+        <a  className="challenge3-a-image1" href=''target="_blank">
         <img
           alt="image"
           src="/playground_assets/phone.png"
@@ -43,7 +43,7 @@ const Challenge3 = (props) => {
         <label className='challenge3-text'>Click to Unlock</label>
 
 
-        <a href='https://firebasestorage.googleapis.com/v0/b/sherlock23-19008.appspot.com/o/Sherlock%2Fmap_F.pdf?alt=media&token=e4676092-b95e-4882-9bb0-2fa75dee3074' target="_blank">
+        <a href='https://drive.google.com/file/d/1sZCopcJAEBr8Z6jWhG_VfB5si7nTHMvI/view?usp=share_link' target="_blank">
         <img
           alt="image"
           src="/playground_assets/map.png"
@@ -58,7 +58,7 @@ const Challenge3 = (props) => {
         <input type="text" value={inputValue} onChange={(e) => setInputValue(e.target.value)} />
       </label>
       <br/>
-      <button href="">
+      <button href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVlJXREw4cVhMOG56YTFlSVAxdW9DcU9hSS9xWjZtbUg3YjVFd0VMV3FjaklNMkF1ZFkza25NcUlZNWhDRGRjNHhsekdNYjNndEVuS0QzeUxyajNSanpKZDlDRktzQTZyTnhrSHVWV1A3MU1Fanc1WlFQekdXQlg5aU5WcE1xbFExTWhGa0xvPSIsInMiOiJwUFRSdzV6eUJKOVBqa3FtMksySHVBPT0iLCJpIjoib3p1dnIrR2swMmx0TGRzRyJ9">
             <span> Submit </span>
             <div id="clip">
                 <div id="leftTop" class="corner"></div>
