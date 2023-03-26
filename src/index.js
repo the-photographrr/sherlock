@@ -16,18 +16,18 @@ import Challenge7 from './views/challenge-7'
 
 const App = () => {
   return (
-    <BrowserRouter  >
+    <BrowserRouter>
     <Switch>
         <Route path="/" exact component={Home}/>
-        <Route component={Challenge2} exact path="/450E" />
-        <Route component={Challenge3} path="/8456" />
-        <Route component={Challenge1} path="/challenge-1" />
-        <Route component={Challenge4} path="/P5" />
-        <Route component={Challenge5} path="/youwon" />   
-        <Route component={Challenge6} path="/conqured" />
-        <Route component={Challenge7} path="/lost" />
-        <Route component={Vicious7}   path="/vicious-7" />
-        <Route component={ErrorPage}  />
+        <Route component={Challenge2}  exact path="/450E" />
+        <Route component={Challenge3} exact path="/8456" />
+        <Route component={Challenge1} exact  path="/challenge-1" />
+        <Route component={Challenge4} exact path="/P5" />
+        <Route component={Challenge5} exact path="/youwon" />   
+        <Route component={Challenge6} exact  path="/conqured" />
+        <Route component={Challenge7} exact  path="/lost" />
+        <Route component={Vicious7} exact path="/vicious-7" />
+        <Route component={ErrorPage}  path="*" />
     </Switch> 
     </BrowserRouter>
   )
