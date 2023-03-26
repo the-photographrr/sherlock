@@ -43,7 +43,7 @@ const Challenge4 = (props) => {
         <label className='challenge4-text'>Check this Out 👇</label>
 
 
-        <a href='https://firebasestorage.googleapis.com/v0/b/sherlock23-19008.appspot.com/o/Sherlock%2FMAP_P5%20(1).pdf?alt=media&token=5171dbc2-ad54-4244-9ffe-5d28d59a9253' target="_blank">
+        <a href='https://drive.google.com/file/d/1mJ2v7U9tyigaxCgidjpBsCZ3aLcmy28F/view?usp=share_link' target="_blank">
         <img
           alt="image"
           src="/playground_assets/map.png"
