@@ -33,7 +33,7 @@ const Challenge3 = (props) => {
           src="/playground_assets/c3-phone.png"
           className="challenge3-image"
         />
-        <a  className="challenge3-a-image1" href='https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibFhPc1M5WCtFak9MVzFBN3EraXBOTWFQbDcxVXBuNENEcUJVcVVKRmFPSXdXUjVINDdjRW9zdzc4aENRYXB3VjJ4L0RVQWxYVXdzbjlMSUw0NjloOU9ZZTgveHp0dHBjTUVjYWpqM1Vla2szbzFuQS9QVXFjckhLM1g3UnN6cFJSZ282RDVvPSIsInMiOiJmTFB1emR2dEMyRlU5Rngya0dsWXdBPT0iLCJpIjoiWURHbmlVa3FuR1Qvc09WZiJ9'target="_blank">
+        <a  className="challenge3-a-image1" href=''target="_blank">
         <img
           alt="image"
           src="/playground_assets/phone.png"
